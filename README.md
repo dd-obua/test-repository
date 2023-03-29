@@ -1,5 +1,6 @@
 # test-repository
 
-This is a new edit from my local computer
+Remote files (i.e. files on github) change.
 
-Just testing things out.
+Files on the local machine changes too.
+
